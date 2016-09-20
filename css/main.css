@@ -1,0 +1,55 @@
+.jumbotron{
+	background: url(../img/home.jpg);
+	height: 640px;
+	text-align: center;
+}
+
+.container_home{
+	margin-top: 180px;
+	text-align: center;
+}
+
+.titulo{
+	color: white !important;
+}
+
+.row_youtube{
+	margin-top:50px;
+	margin-bottom: 50px;
+}
+	
+.titulo2{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.jumbotron_2{
+	background: yellow;
+	height: 550px;
+	padding-top: 80px;
+	margin-top:80px;
+}
+
+.titulo3{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+.jumbotron_3{
+	height: 400px;
+	padding-top: 50px;
+}
+
+footer{
+	background: rgb(68,151,163);
+	height:100px;
+	padding-top:40px;
+	margin-top: 50px;
+	color: white;
+}
+
+
+span {
+	color: yellow!important;
+}
